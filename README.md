@@ -1,6 +1,6 @@
-# IReCa
+# BCR-DRL
 
-**IReCa: Intrinsic Reward-enhanced Context-aware Reinforcement Learning for Human-AI Coordination**
+**BCR-DRL: Behavior- and Context-aware Reward for Deep Reinforcement Learning in Human-AI Coordination**
 
 pip install keras==2.11.0
 
