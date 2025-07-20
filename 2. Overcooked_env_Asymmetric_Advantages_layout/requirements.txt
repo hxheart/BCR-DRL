@@ -1,0 +1,14 @@
+tensorflow[and-cuda]
+keras
+numpy
+gymnasium
+gym
+opencv-python
+pandas
+pygame
+scipy
+matplotlib
+tqdm
+IPython
+ipywidgets
+dill
