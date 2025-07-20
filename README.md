@@ -1,4 +1,4 @@
-Please refer to our paper at ECAI 2024: **BCR-DRL: Behavior- and Context-aware Reward for Deep Reinforcement Learning in Human-AI Coordination**
+Please also refer to our paper at ECAI 2024: **BCR-DRL: Behavior- and Context-aware Reward for Deep Reinforcement Learning in Human-AI Coordination**
 
 pip install keras==2.11.0 
  
