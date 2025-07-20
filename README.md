@@ -17,11 +17,7 @@ pip install matplotlib
 pip install tqdm 
 pip install IPython 
 pip install ipywidgets 
-pip install dill 
- 
- 
-pip install tf-agetns –no-deps ???? 
- 
+pip install dill  
  
 pip uninstall gymnasium 
 pip uninstall gym 
